@@ -1,7 +1,8 @@
 # PythonWorkshops
 
-# Topics that we will cover today:
+# Python Workshop #1
 
+We will be covering the following topics for the first workshop:
 # Basic Concepts 
 - Primitive constructs
 - Syntax
