@@ -6,18 +6,25 @@
 
 # input ()
 
-# input ( ) : This function first takes the input from the user and then evaluates the expression, which means Python automatically identifies whether user entered a string or a number or list. 
+# input ( ) : This function first takes the input from the user and then evaluates the expression, which means Python automatically identifies that the user has entered a string.
 
 # If the input provided is not correct then either syntax error or exception is raised by python.
 
 # For Example:
- 
-# number=input("Enter a number: ")
-# print(number)
 
 # name=input("Enter your name : ")
 # print(name)
 
+# print("type of name : ", type(name))
+
+# number=input("Enter a number: ")
+# print(number)
 # print("type of number: ", type(number))
 
-# print("type of name : ", type(name))
+# x = int(input("Enter a number: "))
+# print("type of number: ", type(x))
+
+##Exercise: Ask for the users name and print it
+# print("Enter your name:")
+# x=input()
+# print("Hello, " + x)

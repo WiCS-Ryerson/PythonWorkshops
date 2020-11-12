@@ -28,7 +28,7 @@ j=5
 # comparison operators:
 
 # i == j
-a=8
+#a=8
 # b=18
 # print(a==b)
 
