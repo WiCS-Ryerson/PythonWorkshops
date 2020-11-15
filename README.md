@@ -2,8 +2,7 @@
 
 ## Python Workshop #1
 
-We will be covering the following topics for the first workshop:
-# Basic Concepts 
+Following topics are covered in the first workshop:
 - Primitive constructs
 - Syntax
 - Printing Hello World 
@@ -12,3 +11,10 @@ We will be covering the following topics for the first workshop:
 - Variables
 - Operators
 - Input
+
+## Python Workshop #2
+Following topics are covered in the second workshop: 
+- Lists/Array
+- Conditional Statements (if)
+- Loops (While/For)
+
