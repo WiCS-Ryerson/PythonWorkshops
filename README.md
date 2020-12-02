@@ -18,3 +18,14 @@ Following topics are covered in the second workshop:
 - Conditional Statements (if)
 - Loops (While/For)
 
+## Python Workshop #3
+
+Following topics are covered in the third workshop:
+- Review of loops
+- Functions
+
+
+## Python Workshop #4
+
+Following topics are covered in the Fourth workshop:
+- Building hangman game using all the topics that were taught throughout the workshop
